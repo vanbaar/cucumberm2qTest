@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41466ee9-2134-41cb-88a3-2e188e27e88d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/be/m2q/navigation.java" afterPath="$PROJECT_DIR$/src/test/java/be/m2q/navigation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -82,8 +83,8 @@
       <file leaf-file-name="navigation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/be/m2q/navigation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -432,9 +433,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHandler - 2017.11.24 at 11h 35m 38s.xml">
-      <configuration name="TestHandler" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestHandler - 2017.11.24 at 11h 36m 45s.xml">
       <configuration name="TestHandler" configurationId="JUnit" />
     </history-entry>
@@ -460,6 +458,9 @@
       <configuration name="TestHandler" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestHandler - 2017.11.24 at 13h 39m 07s.xml">
+      <configuration name="TestHandler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHandler - 2017.11.24 at 14h 00m 06s.xml">
       <configuration name="TestHandler" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -589,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/be/m2q/navigation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

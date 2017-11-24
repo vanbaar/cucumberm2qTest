@@ -18,6 +18,7 @@ public class navigation {
             System.out.println("I click on " + dataMap.get(item));
             assertTrue(title().contains(dataMap.get(item)));
             //just some commment line
+            //Second line of comment
         }
     }
 }

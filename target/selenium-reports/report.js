@@ -17,7 +17,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 92991,
+  "duration": 154986,
   "status": "passed"
 });
 formatter.background({
@@ -42,7 +42,7 @@ formatter.match({
   "location": "contactpage.goToUrl(String)"
 });
 formatter.result({
-  "duration": 7778612188,
+  "duration": 7330734071,
   "status": "passed"
 });
 formatter.scenario({
@@ -78,7 +78,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheCorrectFirstname(String)"
 });
 formatter.result({
-  "duration": 316056376,
+  "duration": 180046736,
   "status": "passed"
 });
 formatter.match({
@@ -91,7 +91,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheCorrectLastname(String)"
 });
 formatter.result({
-  "duration": 173843660,
+  "duration": 183215374,
   "status": "passed"
 });
 formatter.match({
@@ -104,7 +104,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheCorrectEmail(String)"
 });
 formatter.result({
-  "duration": 428915158,
+  "duration": 271237785,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -201,7 +201,7 @@ formatter.match({
   "location": "contactpage.goToUrl(String)"
 });
 formatter.result({
-  "duration": 1081182253,
+  "duration": 998193414,
   "status": "passed"
 });
 formatter.scenario({
@@ -246,7 +246,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongFirstnameFirstname(String)"
 });
 formatter.result({
-  "duration": 193833537,
+  "duration": 216081830,
   "status": "passed"
 });
 formatter.match({
@@ -259,7 +259,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongLastnameLastname(String)"
 });
 formatter.result({
-  "duration": 151454240,
+  "duration": 136670790,
   "status": "passed"
 });
 formatter.match({
@@ -272,11 +272,11 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongEmailEmail(String)"
 });
 formatter.result({
-  "duration": 381573035,
+  "duration": 340549225,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25892,
+  "duration": 46678,
   "status": "passed"
 });
 formatter.background({
@@ -301,7 +301,7 @@ formatter.match({
   "location": "contactpage.goToUrl(String)"
 });
 formatter.result({
-  "duration": 776348667,
+  "duration": 703527985,
   "status": "passed"
 });
 formatter.scenario({
@@ -346,7 +346,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongFirstnameFirstname(String)"
 });
 formatter.result({
-  "duration": 175050361,
+  "duration": 209942207,
   "status": "passed"
 });
 formatter.match({
@@ -359,7 +359,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongLastnameLastname(String)"
 });
 formatter.result({
-  "duration": 131302449,
+  "duration": 141053057,
   "status": "passed"
 });
 formatter.match({
@@ -372,11 +372,11 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongEmailEmail(String)"
 });
 formatter.result({
-  "duration": 316329880,
+  "duration": 314379977,
   "status": "passed"
 });
 formatter.before({
-  "duration": 29903,
+  "duration": 52878,
   "status": "passed"
 });
 formatter.background({
@@ -401,7 +401,7 @@ formatter.match({
   "location": "contactpage.goToUrl(String)"
 });
 formatter.result({
-  "duration": 1311322929,
+  "duration": 745730052,
   "status": "passed"
 });
 formatter.scenario({
@@ -446,7 +446,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongFirstnameFirstname(String)"
 });
 formatter.result({
-  "duration": 164511697,
+  "duration": 197105377,
   "status": "passed"
 });
 formatter.match({
@@ -459,7 +459,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongLastnameLastname(String)"
 });
 formatter.result({
-  "duration": 129945139,
+  "duration": 136349878,
   "status": "passed"
 });
 formatter.match({
@@ -472,7 +472,7 @@ formatter.match({
   "location": "contactpage.iVerifyThatICanEnterTheWrongEmailEmail(String)"
 });
 formatter.result({
-  "duration": 362297188,
+  "duration": 306707637,
   "status": "passed"
 });
 formatter.uri("homepage.feature");
@@ -569,7 +569,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 67100,
+  "duration": 31361,
   "status": "passed"
 });
 formatter.scenario({
@@ -606,7 +606,7 @@ formatter.match({
   "location": "homepage.iAmOnUrlWebsite(String)"
 });
 formatter.result({
-  "duration": 5226085520,
+  "duration": 11874108558,
   "status": "passed"
 });
 formatter.match({
@@ -619,11 +619,11 @@ formatter.match({
   "location": "homepage.iShouldSeeATitleThatContainsTitle(String)"
 });
 formatter.result({
-  "duration": 8210232,
+  "duration": 7644260,
   "status": "passed"
 });
 formatter.before({
-  "duration": 32092,
+  "duration": 18963,
   "status": "passed"
 });
 formatter.scenario({
@@ -660,7 +660,7 @@ formatter.match({
   "location": "homepage.iAmOnUrlWebsite(String)"
 });
 formatter.result({
-  "duration": 351054340,
+  "duration": 184798781,
   "status": "passed"
 });
 formatter.match({
@@ -673,11 +673,11 @@ formatter.match({
   "location": "homepage.iShouldSeeATitleThatContainsTitle(String)"
 });
 formatter.result({
-  "duration": 133074392,
+  "duration": 7248591,
   "status": "passed"
 });
 formatter.before({
-  "duration": 21880,
+  "duration": 16775,
   "status": "passed"
 });
 formatter.scenario({
@@ -714,7 +714,7 @@ formatter.match({
   "location": "homepage.iAmOnUrlWebsite(String)"
 });
 formatter.result({
-  "duration": 2005970050,
+  "duration": 3442336923,
   "status": "passed"
 });
 formatter.match({
@@ -727,11 +727,11 @@ formatter.match({
   "location": "homepage.iShouldSeeATitleThatContainsTitle(String)"
 });
 formatter.result({
-  "duration": 7059691,
+  "duration": 6497366,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24069,
+  "duration": 21880,
   "status": "passed"
 });
 formatter.scenario({
@@ -768,7 +768,7 @@ formatter.match({
   "location": "homepage.iAmOnUrlWebsite(String)"
 });
 formatter.result({
-  "duration": 2060887146,
+  "duration": 1158131390,
   "status": "passed"
 });
 formatter.match({
@@ -781,11 +781,11 @@ formatter.match({
   "location": "homepage.iShouldSeeATitleThatContainsTitle(String)"
 });
 formatter.result({
-  "duration": 7731782,
+  "duration": 5262951,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26986,
+  "duration": 14587,
   "status": "passed"
 });
 formatter.scenario({
@@ -822,7 +822,7 @@ formatter.match({
   "location": "homepage.iAmOnUrlWebsite(String)"
 });
 formatter.result({
-  "duration": 199387861,
+  "duration": 188538860,
   "status": "passed"
 });
 formatter.match({
@@ -835,7 +835,7 @@ formatter.match({
   "location": "homepage.iShouldSeeATitleThatContainsTitle(String)"
 });
 formatter.result({
-  "duration": 11412055,
+  "duration": 8955987,
   "status": "passed"
 });
 formatter.uri("navigation.feature");
@@ -857,7 +857,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 17869,
+  "duration": 16045,
   "status": "passed"
 });
 formatter.scenario({
@@ -925,14 +925,14 @@ formatter.match({
   "location": "contactpage.goToUrl(String)"
 });
 formatter.result({
-  "duration": 3770166742,
+  "duration": 2148596304,
   "status": "passed"
 });
 formatter.match({
   "location": "navigation.iClickOn(String,String\u003e)"
 });
 formatter.result({
-  "duration": 3361485427,
+  "duration": 3038668027,
   "status": "passed"
 });
 });

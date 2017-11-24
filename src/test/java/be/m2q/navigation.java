@@ -17,6 +17,7 @@ public class navigation {
             $(byText(dataMap.get(item))).click();
             System.out.println("I click on " + dataMap.get(item));
             assertTrue(title().contains(dataMap.get(item)));
+            //just some commment line
         }
     }
 }
